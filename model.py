@@ -5,7 +5,7 @@ import numpy as np
 import time
 
 st.set_page_config(
-    page_title="NeuroScan AI", 
+    page_title="AI project", 
     page_icon="🧠",
     layout="wide",
     initial_sidebar_state="expanded"
